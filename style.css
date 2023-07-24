@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    
+    background-color: black
 }
 
 h1 {
@@ -14,11 +14,11 @@ h1 {
 }
 
 #origami1{
-
+    background-color:lightcoral
 }
 
 #origami2{
-
+    background-color:lightcoral
 }
 
 .line {
